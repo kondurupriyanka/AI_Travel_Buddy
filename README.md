@@ -13,7 +13,8 @@ A web-based **AI-powered travel assistant** that helps users **plan, personalize
 * **User-Friendly Dashboard**: Clean and intuitive interface with smooth navigation.
 
 ## Demo link
-https://ai-travel-whisperer-51.lovable.app
+
+https://ai-travel-buddy-companion.vercel.app/
 
 ## Images
 ![img](ai-travel-whisperer-51-main/a1.jpg)
